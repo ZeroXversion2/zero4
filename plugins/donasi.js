@@ -14,7 +14,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 
 Contact person Owner:
 wa.me/6285828357727 (Owner)`
-let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/696076406bf2516adb1fd.jpg' }}, { upload: conn.waUploadToServer })
+let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/30b6646b359c59f2be265.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -24,14 +24,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '🏧 Sociabuzz',
-               url: 'https://sociabuzz.com/arietube/tribe'
+               url: 'https://sociabuzz.com/ezpie/tribe'
              }
 
            },
                {
              callButton: {
                displayText: 'Gopay',
-               phoneNumber: '+62 882-4500-9287'
+               phoneNumber: '+62 851-6173-2766'
              }
            },           
                {
